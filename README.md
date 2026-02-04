@@ -1,4 +1,4 @@
-#Admin Dashboard Web Application (React)
+Admin Dashboard Web Application (React)
 
 This project is a responsive admin dashboard built using React.js. It demonstrates how to create a modern frontend application with multi-page navigation, API integration, search, filtering, pagination, and a dark/light theme.
 
